@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Location App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Drawer Opened</string>
+    <string name="drawer_close">Drawer Closed</string>
+
+    <string-array name="drawer_list">
+        <item>Add Marker</item>
+        <item>Get Location</item>
+        <item>Get Address</item>
+        <item>Update Location</item>
+        <item>[ (-: Reset Map :-) ]</item>
+        <item>Direct A -> B</item>
+        <item>Find My Friend</item>
+    </string-array>
+
+</resources>
